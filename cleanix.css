@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.bg-cyan{
+    background-color: lightblue;
+}
+.navbar-nav .nav-link{
+    color:#2D7B80;
+}
+.btn-cyan{
+    background-color:#2D7B80;
+    color: white;
+
+}
+.image-holder{
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(83, 147, 151, 0) 85%, rgba(45, 123, 128, 0.75) 85%, rgba(45, 123, 128, 0.75) 100%), url(https://www.cleanlink.com/resources/editorial/2022/28714-clean-sstock-1686784885.jpg) ;
+    height: 100vh;
+    background-size: cover;
+}
+header{
+    overflow-x: hidden;
+}
+.overlay{
+    background-color:rgba(45, 123, 128, 0.85) ;
+    height: 100px;
+    width: 100vw;
+}
+.btn-white{
+    background-color: white;
+    color: #2D7B80;
+    border: 2px solid #2D7B80 ;
+}
+.btn-white:hover{
+    color: white;
+    background-color: #2D7B80;
+    border: 2px solid #2D7B80 ;
+
+}
+.heading-text{
+    font-family: 'Inter', sans-serif;
+    color: #2D7B80;
+    font-weight: bold;
+    font-size: 4vw;
+}
+.heading2{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.services{
+   background-color: rgba(119, 200, 218, 0.53);
+}

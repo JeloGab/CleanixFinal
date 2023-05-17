@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+body{
+    background-color: #a9dff0;
+    font-family: 'Metropolis';
+}
+h1,h2,h3,h4,h5,h6{
+   font-family: 'Metropolis';
+}
+.navbar-brand{
+    font-family: 'Metropolis';
+    color: #477485;
+}
+.navbar-nav .active{
+    border-bottom: #477485 solid 3px;
+}
+.hero-section{
+    background: url("../img/homepage.jpg") no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.btn-dark-green{
+    background-color: #285430;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 20px;
+}
+.btn-cyan{
+    background-color: white;
+    color: #477485;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+p{
+    font-size: 18px;
+    color: black;
+}
+.btn-nav{
+    background-color: #477485;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 10px;
+    }
+.btn-services{
+    background-color: #477485;
+    color: white;
+}
+.btn-book{
+    text-align: center;
+    background-color: #477485;
+    color: white;
+    border: none;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 6px;
+}
+.btn-baby-blue{
+    background-color: #68c7e3;
+    text-align: center;
+    color: black;
+    border-radius: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    padding: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.card-title{
+    text-align: center;
+    }
+.card-text{
+    text-align: center;
+}
+.container-fluid{
+    width: 100%;
+    text-align: center;
+}
+.about-us{
+    background: url("../img/aboutus.jpg") no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-color: #285430;
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    
+}
+.bg-cyan{
+    background-color: #477485;
+}
